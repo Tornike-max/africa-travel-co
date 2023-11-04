@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+    color: rgb(249 115 22);
+    transition: 0.3s;
+}
